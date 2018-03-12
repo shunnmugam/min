@@ -1,2 +1,0 @@
-# min
-Created with CodeSandbox
